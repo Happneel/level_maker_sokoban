@@ -1,5 +1,5 @@
 # level_maker_sokoban
-This is a little program that automatically generates a valid random map for the project my_sokoban at the Epitech school. Don't steal the code please :)
+This is a little program that automatically generates a valid random map for the project my_sokoban for the Epitech school students in 1st year. Don't steal the code please :)
 
 This program make random maps for the game "Sokoban".
 
